@@ -56,7 +56,7 @@ let toDoReducer = (state = initState, action) => {
         }
         case "REMOVE_ALL":{
             return {
-                todos:[]
+                todos: []
             }
         }
 

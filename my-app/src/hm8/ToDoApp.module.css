@@ -24,6 +24,17 @@
     margin: 10px 0 10px 0;
 }
 
+.deleteBtn {
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
 .taskCount {
     color: blueviolet;
     font-weight: bold;
