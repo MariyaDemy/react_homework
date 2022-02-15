@@ -1,0 +1,17 @@
+.nav {
+
+    background-color: lightgreen;
+    text-decoration: none;
+
+
+}
+
+.list {
+
+    list-style: none;
+    display: flex;
+}
+
+.listItem {
+    padding: 10px;
+}

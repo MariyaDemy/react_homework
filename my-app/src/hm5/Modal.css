@@ -1,0 +1,8 @@
+.modal {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: calc(50% - 100px);
+    top: calc(50% - 150px);
+    background-color: darkcyan;
+}
