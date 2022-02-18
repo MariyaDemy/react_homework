@@ -41,11 +41,11 @@ const Goods = () => {
     //     }, 2000)
     // }, [])
 
-    // useEffect(async () => {
-    //     let response = await fetch('https://api.github.com/users');
-    //     let result = await response.json();
-    //     setUsers(result);
-    // }, []);
+    useEffect(async () => {
+        let response = await fetch('https://api.github.com/users');
+        let result = await response.json();
+        setUsers(result);
+    }, []);
 
     // return (
     //     <div>

@@ -9,7 +9,7 @@ import App5 from './App5';
 import App6 from './App6';
 import App7 from './hm7/App7';
 import App8 from './hm8/App8';
-
+import App9 from './App9';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -22,7 +22,8 @@ ReactDOM.render(
     {/* <App5></App5> */}
     {/* <App6></App6> */}
     {/* <App7></App7> */}
-    <App8></App8>
+    {/* <App8></App8> */}
+    <App9></App9>
     
   </React.StrictMode>,
   document.getElementById('root')
